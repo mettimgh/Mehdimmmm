@@ -1,0 +1,35 @@
+
+body {
+  font-family: 'Vazir', sans-serif;
+  background: #f5f5f5;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+
+header {
+  background: #1d3557;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background: white;
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background: #1d3557;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
